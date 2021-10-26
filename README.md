@@ -1,1 +1,1 @@
-# C37-Game-states-and-player-information
+# C37-SpeedRacer_TeacherActivity
